@@ -1,2 +1,2 @@
 # GoITeens_1
-23
+Group 23 git lesson
